@@ -124,3 +124,4 @@ Chat responses are generated based on text metadata (not image content)
 Demo Video:
 
 https://www.loom.com/share/5e4c37de503a474193cf328ab610293e?sid=70482e3e-293e-4c1a-a1e1-18ee0801bdba
+This project is a part of a hackathon run by https://katomaran.com
